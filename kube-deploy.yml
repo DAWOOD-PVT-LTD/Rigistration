@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: rigistration
-        image: pathandawood/ristration:latest
+        image: imageurl
         imagePullPolicy: Always
         ports:
         - containerPort: 80
