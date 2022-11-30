@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i "s/imageurl/$1/g" deploy.yml
+sed -i "s/imageurl/$1/g" kube-deploy.yml
