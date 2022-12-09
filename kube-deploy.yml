@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: rigistration
-        image: imageurl
+        image: registration-from
         imagePullPolicy: Always
         ports:
         - containerPort: 80
