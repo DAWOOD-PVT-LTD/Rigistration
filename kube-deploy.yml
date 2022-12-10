@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: rigistration
-        image: 44.211.22.125:8083/registration-form
+        image: 54.236.38.112:8083/registration-form:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
